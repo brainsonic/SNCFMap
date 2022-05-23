@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileset version="1.8" tiledversion="1.8.4" name="map" tilewidth="32" tileheight="32" tilecount="1862" columns="49">
+ <image source="src/assets/map.png" width="1568" height="1230"/>
+</tileset>
